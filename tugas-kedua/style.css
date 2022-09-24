@@ -1,0 +1,122 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-pertama{
+    height: 30px;
+    background-color: #c7dd20;
+    color: #094f03;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.navbar-pertama .nav-link{
+    margin-right: 20px;
+    color: #094f03;
+}
+
+.navbar-pertama .nav-link:hover{
+    color: #0b5fc0;
+}
+
+.navbar-kedua{
+    background-color: #03274F;
+}
+
+.navbar-kedua .form-control{
+    width: 100px;
+}
+
+.navbar-ketiga{
+    width: 100%;
+    background-color: #c7dd20;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar-ketiga .nav-link{
+    margin-right: 30px;
+    color: #094f03;
+}
+
+.navbar-ketiga .nav-link:hover{
+    color: #0b5fc0;
+}
+
+img{
+    width: 200px;
+    height: 40px;
+}
+
+.container-1{
+    width: 350px;
+    height: 40px;
+    position: relative;
+    background-color: white;
+    border-radius: 5px;
+  }
+
+  .container-1 input#search{
+    width: 320px;
+    height: 40px;
+    background-color:white;
+    font-size: 14px;
+    float: left;
+    color: #094f03;
+    padding-left: 15px;
+    border-radius: 5px;
+    border: none;
+  }
+
+ .container-1 .icon{
+    position: absolute;
+    top: 0;
+    right: 10px;
+    margin-top: 7px;
+    color: #094f03;
+    background-color: transparent;
+    border: none;
+  }
+
+.content{
+    margin: 0 20px;
+}
+
+.container .carousel{
+    background-color: #c7dd20;
+    width: 100%;
+    height: 400px;
+    text-shadow: #03274F;
+}
+
+.container .carousel .img{
+    height: 400px;
+}
+
+.content .list-group-item:hover{
+    background-color: #c7dd20;
+}
+
+.discount .card:hover{
+    box-shadow: 4px 4px 2px #0b5fc0;
+    border: 1px solid #0b5fc0;
+    cursor: pointer;
+}
+
+.discount .card img{
+    width: 100%;
+    height: 180px;
+}
+
+.discount .card .btn{
+    background-color: #c7dd20;
+}
+.discount .card .btn:hover{
+    background-color: #094f03;
+    color: white;
+}
+
+footer {
+    border-top: 1px solid #e4e4e4;
+    margin-top: 150px;
+}
