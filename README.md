@@ -1,6 +1,6 @@
-Sanbercode - Kelas Karyawan
+# Sanbercode - Kelas Karyawan
 
-Laravel Web Development
+## Laravel Web Development
 1. Git & HTML
 2. CSS & Bootstrap
 3. Javascript
